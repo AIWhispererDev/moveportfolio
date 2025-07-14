@@ -90,7 +90,7 @@ src/components/Dashboard_migrated.tsx
 src/components/EnhancedTransactionTable.tsx
 # src/components/ExportDataTools.tsx
 src/components/SettingsCard.tsx
-src/components/SubscriptionPlans.tsx
+# src/components/SubscriptionPlans.tsx
 src/components/TestLayoutPage.tsx
 src/components/ThemeToggle.tsx
 src/components/WalletSelector.tsx
